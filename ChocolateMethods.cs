@@ -50,14 +50,38 @@ public class ChocolateMethods{
 			
 	}
 	private static int[] CreateIntArr(string str){
-		int[] arr = new int[0];
-		return arr;
+		bool works = false;
+		while (!works){
+			try{
+				string[] arrstr = str.Split(" ");
+				int[] arr = new int[arrstr.Length];
+				for(int i =0; i<arrstr.Length; i++){
+					arr[i] = Convert.ToInt32(arrstr[i]);
+				}
+				works = true;
+				return arr;
+			}catch {
+				Console.WriteLine("Please enter only integers seperated by spaces:");
+				str = Console.ReadLine();
+			}
+		}
+			
 	}
 	internal static void FindSecondLargeInArray(int[] arr){
 			
 	}
 	private static int CheckifNumber(string str){
-		int num = 0;
+		int num;
+		int works = false;
+		while (!works){
+			try{
+				num = Convert.ToInt32(str);
+				works = true;
+			}catch {
+				Console.WriteLine("Please reenter an integer: ");
+				str = Console.ReadLine();
+			}
+		}
 		return num;
 	}
 	internal static bool FindPrime(int number){

@@ -1,0 +1,11 @@
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\obj\Debug\netcoreapp3.0\ChocolateyMethods.csprojAssemblyReference.cache
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\obj\Debug\netcoreapp3.0\ChocolateyMethods.AssemblyInfoInputs.cache
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\obj\Debug\netcoreapp3.0\ChocolateyMethods.AssemblyInfo.cs
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\bin\Debug\netcoreapp3.0\ChocolateyMethods.exe
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\bin\Debug\netcoreapp3.0\ChocolateyMethods.deps.json
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\bin\Debug\netcoreapp3.0\ChocolateyMethods.runtimeconfig.json
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\bin\Debug\netcoreapp3.0\ChocolateyMethods.runtimeconfig.dev.json
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\bin\Debug\netcoreapp3.0\ChocolateyMethods.dll
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\bin\Debug\netcoreapp3.0\ChocolateyMethods.pdb
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\obj\Debug\netcoreapp3.0\ChocolateyMethods.dll
+C:\Users\colum\source\repos\ChocolateyMethods\ChocolateyMethods\obj\Debug\netcoreapp3.0\ChocolateyMethods.pdb
